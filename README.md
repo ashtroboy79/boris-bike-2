@@ -8,4 +8,4 @@ To help us learn good pair programming techniques, to test and debug our code wi
 
 ## Project Status
 
-Ongoing: we have written the README.md!
+Ongoing: this is the current progress from day 3 with Ahsan and Suhani working through challenges 12-16. 
